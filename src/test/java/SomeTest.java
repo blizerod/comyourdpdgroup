@@ -8,6 +8,7 @@ public class SomeTest {
     public void someTest(){
         System.out.println("TestNG");
         System.out.println("fdg " + Integer.bitCount(122));
+        System.out.println();
     }
 
 }
